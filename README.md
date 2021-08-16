@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @tzy9153
+- 🌱 I’m currently learning how to program from Udemy courses...
+- 💞️ I’m looking to collaborate on pair programming...
+- 📫 How to reach me ...
+
+<!---
+tzy9153/tzy9153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
